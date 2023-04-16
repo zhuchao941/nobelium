@@ -1,7 +1,7 @@
 const BLOG = {
   title: '黑微狗的技术blog',
   author: '黑微狗',
-  email: '339357762@qq.com',
+  email: 'zhu339357762@gmail.com',
   link: 'https://blog.zhuchao941.world',
   description: '主要记录多年工作经验的技术总结',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/someonezzzccc',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
